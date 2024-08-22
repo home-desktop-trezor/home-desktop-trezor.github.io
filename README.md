@@ -1,1 +1,0 @@
-# home-desktop-trezor.github.io
